@@ -64,3 +64,16 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+
+## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/35638594/adhamnugroho/sistem-rental_mobil/recent-activity/HRypewz06aAXi4RgS_VbX1ORmh8xgk75JSZIQ-NcSNc/zaTRYQPLuV9rpaEBPFLpXvGinGNDULAgJLbqIFfr1PQ_badge.svg)](https://repography.com)
+[![Timeline graph](https://images.repography.com/35638594/adhamnugroho/sistem-rental_mobil/recent-activity/HRypewz06aAXi4RgS_VbX1ORmh8xgk75JSZIQ-NcSNc/zaTRYQPLuV9rpaEBPFLpXvGinGNDULAgJLbqIFfr1PQ_timeline.svg)](https://github.com/adhamnugroho/sistem-rental_mobil/commits)
+[![Issue status graph](https://images.repography.com/35638594/adhamnugroho/sistem-rental_mobil/recent-activity/HRypewz06aAXi4RgS_VbX1ORmh8xgk75JSZIQ-NcSNc/zaTRYQPLuV9rpaEBPFLpXvGinGNDULAgJLbqIFfr1PQ_issues.svg)](https://github.com/adhamnugroho/sistem-rental_mobil/issues)
+[![Pull request status graph](https://images.repography.com/35638594/adhamnugroho/sistem-rental_mobil/recent-activity/HRypewz06aAXi4RgS_VbX1ORmh8xgk75JSZIQ-NcSNc/zaTRYQPLuV9rpaEBPFLpXvGinGNDULAgJLbqIFfr1PQ_prs.svg)](https://github.com/adhamnugroho/sistem-rental_mobil/pulls)
+[![Trending topics](https://images.repography.com/35638594/adhamnugroho/sistem-rental_mobil/recent-activity/HRypewz06aAXi4RgS_VbX1ORmh8xgk75JSZIQ-NcSNc/zaTRYQPLuV9rpaEBPFLpXvGinGNDULAgJLbqIFfr1PQ_words.svg)](https://github.com/adhamnugroho/sistem-rental_mobil/commits)
+[![Top contributors](https://images.repography.com/35638594/adhamnugroho/sistem-rental_mobil/recent-activity/HRypewz06aAXi4RgS_VbX1ORmh8xgk75JSZIQ-NcSNc/zaTRYQPLuV9rpaEBPFLpXvGinGNDULAgJLbqIFfr1PQ_users.svg)](https://github.com/adhamnugroho/sistem-rental_mobil/graphs/contributors)
+[![Activity map](https://images.repography.com/35638594/adhamnugroho/sistem-rental_mobil/recent-activity/HRypewz06aAXi4RgS_VbX1ORmh8xgk75JSZIQ-NcSNc/zaTRYQPLuV9rpaEBPFLpXvGinGNDULAgJLbqIFfr1PQ_map.svg)](https://github.com/adhamnugroho/sistem-rental_mobil/commits)
+
+
