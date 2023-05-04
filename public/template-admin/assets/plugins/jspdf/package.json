@@ -55,7 +55,7 @@
     "folder-delete": "^1.0.4",
     "inquirer": "^6.5.2",
     "jasmine": "3.5.0",
-    "jasmine-core": "3.5.0",
+    "jasmine-core": "3.99.1",
     "jasmine-expect": "4.0.3",
     "js-yaml": "3.13.1",
     "jsdoc": "^3.6.3",
