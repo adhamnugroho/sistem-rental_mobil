@@ -15,11 +15,23 @@
       },
       "devDependencies": {
         "babel-preset-es2015-rollup": "^1.1.1",
-        "local-web-server": "^1.2.8",
-        "rollup": "^0.31.1",
+        "local-web-server": "^1.2.6",
+        "rollup": "^0.68.0",
         "rollup-plugin-babel": "^2.4.0",
         "uglify-js": "^2.6.2"
       }
+    },
+    "node_modules/@types/estree": {
+      "version": "0.0.39",
+      "resolved": "https://registry.npmjs.org/@types/estree/-/estree-0.0.39.tgz",
+      "integrity": "sha512-EYNwp3bU+98cpU4lAWYYL7Zz+2gryWH1qbdDTidVd6hkiR6weksdbMadyXKXNPEkQFhXM+hVO9ZygomHXp+AIw==",
+      "dev": true
+    },
+    "node_modules/@types/node": {
+      "version": "20.1.0",
+      "resolved": "https://registry.npmjs.org/@types/node/-/node-20.1.0.tgz",
+      "integrity": "sha512-O+z53uwx64xY7D6roOi4+jApDGFg0qn6WHcxe5QeqjMaTezBO/mxdfFXIVAVVyNWKx84OmPB3L8kbVYOTeN34A==",
+      "dev": true
     },
     "node_modules/accepts": {
       "version": "1.3.8",
@@ -2223,12 +2235,13 @@
       }
     },
     "node_modules/rollup": {
-      "version": "0.31.2",
-      "resolved": "https://registry.npmjs.org/rollup/-/rollup-0.31.2.tgz",
-      "integrity": "sha512-MxoYaV+S76k0HdQ9lWttg9IpXiTT3P5V4JOjr4mXa8R43RKFMEfaOCQbBYWH021rUZBs1G5qJtMUOPb68cbqFQ==",
+      "version": "0.68.2",
+      "resolved": "https://registry.npmjs.org/rollup/-/rollup-0.68.2.tgz",
+      "integrity": "sha512-WgjNCXYv7ZbtStIap1+tz4pd2zwz0XYN//OILwEY6dINIFLVizK1iWdu+ZtUURL/OKnp8Lv2w8FBds8YihzX7Q==",
       "dev": true,
       "dependencies": {
-        "source-map-support": "^0.4.0"
+        "@types/estree": "0.0.39",
+        "@types/node": "*"
       },
       "bin": {
         "rollup": "bin/rollup"
@@ -2255,15 +2268,6 @@
       "dependencies": {
         "estree-walker": "^0.2.1",
         "minimatch": "^3.0.2"
-      }
-    },
-    "node_modules/rollup/node_modules/source-map-support": {
-      "version": "0.4.3",
-      "resolved": "https://registry.npmjs.org/source-map-support/-/source-map-support-0.4.3.tgz",
-      "integrity": "sha512-8JY3XWFWkCrgDejjoFUMPkC/VL5dbKmpzJ1p4WBQi5CFWE1edfB7vQGsSM8wsEDA5DJobo3J7V9bNLJW1efoIg==",
-      "dev": true,
-      "dependencies": {
-        "source-map": "^0.5.3"
       }
     },
     "node_modules/safe-buffer": {
