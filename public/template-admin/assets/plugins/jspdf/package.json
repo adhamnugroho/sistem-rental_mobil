@@ -48,7 +48,7 @@
     "chalk": "^5.0.0",
     "codeclimate-test-reporter": "^0.5.1",
     "core-js": "^3.6.0",
-    "diff": "^4.0.2",
+    "diff": "^5.0.0",
     "docdash": "^1.2.0",
     "eslint": "^7.4.0",
     "eslint-plugin-jasmine": "^4.1.1",
