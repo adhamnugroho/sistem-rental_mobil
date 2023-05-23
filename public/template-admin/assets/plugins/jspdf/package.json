@@ -50,7 +50,7 @@
     "core-js": "^3.6.0",
     "diff": "^4.0.2",
     "docdash": "^1.2.0",
-    "eslint": "^7.4.0",
+    "eslint": "^8.0.0",
     "eslint-plugin-jasmine": "^4.1.1",
     "folder-delete": "^1.0.4",
     "inquirer": "^6.5.2",
