@@ -26,12 +26,12 @@
     "@babel/runtime": "^7.14.0",
     "atob": "^2.1.2",
     "btoa": "^1.2.1",
-    "fflate": "^0.7.0"
+    "fflate": "^0.8.0"
   },
   "optionalDependencies": {
     "canvg": "^4.0.0",
     "core-js": "^3.6.0",
-    "dompurify": "^2.2.0",
+    "dompurify": "^3.0.0",
     "html2canvas": "^1.0.0-rc.5"
   },
   "devDependencies": {
