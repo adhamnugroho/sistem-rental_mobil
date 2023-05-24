@@ -43,7 +43,7 @@
     "bootstrap": "5.2.3",
     "cross-env": "^7.0.3",
     "eslint": "^8.19.0",
-    "fantasticon": "^1.2.3",
+    "fantasticon": "^2.0.0",
     "find-unused-sass-variables": "^4.0.4",
     "hugo-bin": "^0.102.0",
     "lockfile-lint": "^4.7.6",
